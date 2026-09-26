@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/letslearn207/k8s-config.git
+    repoURL: https://github.com/lasvanthi-2/k8s-config.git
     targetRevision: main
     path: frontend
   destination:
